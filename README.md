@@ -52,7 +52,7 @@ Este projeto é uma aplicação Java que permite ao usuário buscar informaçõe
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone [https://github.com/andradejohnny/Consulta_Cep]
    cd nome-do-repositorio
    ```
 
@@ -129,4 +129,4 @@ Contribuições são sempre bem-vindas! Siga os passos abaixo:
 
 ---
 
-**Desenvolvido com 💻 e ☕ por [Johnny Andrade](https://github.com/seu-usuario).**
+**Desenvolvido com 💻 e ☕ por [Johnny Andrade].**
